@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #8B5A2B;
+    color: white;
+    padding: 18px 40px;
+}
+
+.navbar h2 {
+    margin: 0;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.navbar li:hover {
+    color: #ffe4c4;
+}

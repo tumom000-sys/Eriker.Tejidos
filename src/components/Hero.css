@@ -1,0 +1,26 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+    background-color: #ffffff;
+    flex-wrap: wrap;
+}
+
+.hero img {
+    width: 350px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,.2);
+}
+
+.hero h1 {
+    color: #8B5A2B;
+    font-size: 38px;
+}
+
+.hero p {
+    max-width: 500px;
+    line-height: 1.6;
+    font-size: 18px;
+}
