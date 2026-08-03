@@ -3,7 +3,7 @@ import "./Hero.css";
 
 function Hero(){
 
-    const empresa="LanaAndina";
+    const empresa="ErikerTejidos";
 
     return(
 

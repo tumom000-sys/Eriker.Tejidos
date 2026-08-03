@@ -6,7 +6,7 @@ function Navbar(){
 
         <nav className="navbar">
 
-            <h2>LanaAndina</h2>
+            <h2>Eriker Tejidos</h2>
 
             <ul>
 
